@@ -1,2 +1,2 @@
-# gitlet
-Gitlet project 
+# Gitlet
+Baby Github Project
